@@ -369,7 +369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e47a82497779abe47ba9738c3e79531f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: https://rickandmortyapi.com/api/character
+  url: https://rickandmortyapi.com/api/character/1
 --- !u!4 &888835579
 Transform:
   m_ObjectHideFlags: 0

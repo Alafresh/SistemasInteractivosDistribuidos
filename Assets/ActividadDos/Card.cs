@@ -9,8 +9,6 @@ public class Card : MonoBehaviour
     public RawImage image;
 
     private void Awake() {
-        image = GetComponent<RawImage>();
-        characterName = GetComponent<TextMeshProUGUI>();
-        species = GetComponent<TextMeshProUGUI>();
+
     }
 }
